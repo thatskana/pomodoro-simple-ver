@@ -12,6 +12,6 @@ I just want to playing around with DOM manipulation.
 5. Then you can start the timer again by click the start button
 6. When the timer finish, a short ringtone will be played.
 7. How to reset: by clicking the reset button
-8. then it will reset to how you first input your timer.
+8. It will reset to how you first input and start your timer.
 
 Happy study and Happy working :)
