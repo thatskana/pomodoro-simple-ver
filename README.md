@@ -1,7 +1,7 @@
 # pomodoro-simple-ver
 Hi. This is a simple pomodoro timer.
 ### ⏰Purpose of me make this small project:
-I just want to playing around with DOM manipulation.
+I just want to play around with DOM manipulation.
 
 ### 🔗Feel free to use the pomodoro timer in the link below⬇️
 https://thatskana.github.io/pomodoro-simple-ver/
