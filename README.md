@@ -6,7 +6,7 @@ I just want to playing around with DOM manipulation.
 ### 🔗Feel free to use the pomodoro timer in the link below⬇️
 https://thatskana.github.io/pomodoro-simple-ver/
 
-### 🪄How to use
+### 🎀How to use
 1. By default the timer is set to 25 minutes.
 2. You can edit the timer according to your preference by clicking the timer.
 3. How to start the timer:
