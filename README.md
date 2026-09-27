@@ -1,5 +1,6 @@
 # pomodoro-simple-ver
 Hi. This is a simple pomodoro timer.
+#### Purpose of me make this small project:
 I just want to playing around with DOM manipulation.
 
 ### Feel free to use the pomodoro timer in the link below⬇️
