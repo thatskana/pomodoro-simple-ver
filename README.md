@@ -1,4 +1,4 @@
-# pomodoro-ver.1
+# pomodoro-simple-ver
 Hi. This is a simple pomodoro timer.
 I just want to playing around with DOM manipulation.
 
